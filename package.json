@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.19"
+  },
+  "name": "arenasgabriela",
+  "description": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriela0012/ArenasGabriela.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriela0012/ArenasGabriela/issues"
+  },
+  "homepage": "https://github.com/Gabriela0012/ArenasGabriela#readme",
+  "keywords": []
+}

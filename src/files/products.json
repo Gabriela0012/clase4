@@ -1,0 +1,32 @@
+[
+	{
+		"price": 12500,
+		"image": "./image/mini.jpg",
+		"id": 2,
+		"title": "short"
+	},
+	{
+		"title": "mini",
+		"price": "2500",
+		"image": "./image/mini.jpg",
+		"id": 3
+	},
+	{
+		"title": "shot1",
+		"price": "2500",
+		"image": "./image/mini.jpg",
+		"id": 5
+	},
+	{
+		"title": "shot56",
+		"price": "2500",
+		"image": "./image/mini.jpg",
+		"id": 6
+	},
+	{
+		"title": "pantalon",
+		"price": 250058,
+		"image": "./image/short.jpg",
+		"id": 7
+	}
+]
